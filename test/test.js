@@ -6,4 +6,10 @@ describe('Array', function() {
       assert.equal(-1, [1,2,3].indexOf(0));
     });
   });
+
+  describe('fail test', function () {
+    it('should fail', function () {
+      assert.equal(false, true);
+    });
+  });
 });
