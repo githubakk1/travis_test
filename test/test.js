@@ -7,9 +7,9 @@ describe('Array', function() {
     });
   });
 
-  describe('fail test', function () {
-    it('should fail', function () {
-      assert.equal(false, true);
-    });
-  });
+  // describe('fail test', function () {
+  //   it('should fail', function () {
+  //     assert.equal(false, true);
+  //   });
+  // });
 });
