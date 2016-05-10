@@ -1,0 +1,22 @@
+{
+  "name": "travis_test_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubakk1/travis_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubakk1/travis_test/issues"
+  },
+  "homepage": "https://github.com/githubakk1/travis_test#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
